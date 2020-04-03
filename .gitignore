@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/SimpeAPISln
+/src/SimpleAPI/.vs/
+/src/SimpleAPI/bin/
+/src/SimpleAPI/obj/
+/test/SimpleAPI.Test/.vs/
+/test/SimpleAPI.Test/bin/
+/test/SimpleAPI.Test/obj/
