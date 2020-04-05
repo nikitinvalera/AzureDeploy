@@ -16,7 +16,7 @@ namespace SimpleAPI.Test
         [Fact]
         public void Test1()
         {
-            var expected = controller.Get(10);
+            var expected = controller.Put(10);
 
             Assert.Equal("Val", expected.Value);
         }
